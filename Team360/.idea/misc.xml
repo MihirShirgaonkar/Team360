@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/btn_bg.xml" value="0.146" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/btn_bg2.xml" value="0.146" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/gradient.xml" value="0.159" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/main_user_bg.xml" value="0.159" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/main_user_bg2.xml" value="0.159" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/popup_bg_trans.xml" value="0.159" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/drawable/progress_bg.xml" value="0.146" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/font/abril_fatface.xml" value="0.27037037037037037" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_add_employee.xml" value="0.24615384615384617" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_add_employee_avtivity.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_employee_list.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_empoyes_dates.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_location.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_main_admin.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_publish_circular.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/add_user_dialogue.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/date_card.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/dialog_main_.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/employee_card.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/layout/progress_bar_layout.xml" value="0.25" />
+        <entry key="..\:/Android Demos/Team360/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

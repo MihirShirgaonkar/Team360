@@ -1,0 +1,99 @@
+<androidx.cardview.widget.CardView android:id="@+id/layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_marginBottom="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="20dp"
+    app:cardCornerRadius="10dp"
+    android:layout_gravity="center"
+    app:cardElevation="3dp"
+    app:cardPreventCornerOverlap="false"
+    app:cardUseCompatPadding="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:paddingBottom="15dp"
+          android:id="@+id/logo"
+          android:paddingRight="20dp"
+          android:paddingLeft="20dp"
+          android:paddingTop="35dp"
+
+
+
+          android:layout_height="100dp"
+          android:src="@drawable/logout_red"/>
+
+
+
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Do you really want to Logout ?"
+          android:fontFamily="@font/poppins_regular"
+          android:textColor="@color/black"
+          android:textStyle="bold"
+          android:id="@+id/text"
+          android:padding="5dp"
+          android:layout_marginTop="8dp"
+          android:textSize="13sp"
+          android:gravity="center"/>
+
+
+
+      <RelativeLayout
+          android:id="@+id/relativeLayout17"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/relativeLayout15"
+          android:layout_marginLeft="35dp"
+          android:gravity="center"
+          android:layout_marginRight="35dp"
+          android:layout_marginTop="25dp">
+
+
+
+          <Button
+              android:id="@+id/btn_submit"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_toRightOf="@+id/btn_cancel"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+              android:layout_marginTop="0dp"
+              android:layout_marginBottom="25dp"
+              android:background="@drawable/btn_bg"
+              android:fontFamily="sans-serif-medium"
+              android:text="Yes"
+
+              android:textColor="@color/white" />
+
+          <Button
+              android:id="@+id/btn_cancel"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="25dp"
+              android:layout_marginRight="30dp"
+              android:background="@drawable/btn_bg"
+              android:fontFamily="sans-serif-medium"
+              android:text="No"
+              android:visibility="gone"
+              android:textColor="@color/white" />
+
+
+
+
+      </RelativeLayout>
+  </LinearLayout>
+</androidx.cardview.widget.CardView>
